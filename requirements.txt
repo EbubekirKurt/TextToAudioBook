@@ -1,0 +1,4 @@
+PyMuPDF
+pyttsx3
+pydub
+pydub[ffmpeg]
